@@ -97,3 +97,15 @@ body {
     display: flex;
     justify-content: end;
 }
+
+footer{
+    margin: 30px 0 30px 0;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+footer a{
+margin-left: 5px;
+color: rgb(77, 35, 0);
+}
